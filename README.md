@@ -37,8 +37,8 @@
 
 ## 📫 Contact Me
 
-💌 Email: your-email@example.com  
-🌐 GitHub: https://github.com/yourusername  
+ 
+🌐 GitHub: https://github.com/goatbot786-md/goat_786.git  
 
 ---
 
