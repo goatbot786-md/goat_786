@@ -1,1 +1,1 @@
-# goat_786
+# MINI-GOAT TECC-MD-V1
